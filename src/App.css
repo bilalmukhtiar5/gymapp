@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #000000 !important;
+}
+.nav-link :hover a {
+  color: blue;
+  
+}
+.nav-link {
+  color: #ffffff !important;
+  font-size: 20px;
+  margin: 0 8px 0 8px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  
+}
+
+.navbar-icons {
+  
+  padding: 5px 0 0 0;
+  
+}
+.dropdown-menu {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin: 0 8px 0 8px;
+  
+}
+
+
+/* Banner */
+
+.banner {
+  height: 720px;
+  background-image: url();
+  background-color: #0000006b;
+  
+
+}
+.banner-heading {
+  font-size: 60px;
+  padding: 80px 0 5px 0;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.banner-text {
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 15px;
+  color: #ffffff;
+  padding: 0 0 10px 0;
+}
+
+/* FORM */
+.form {
+  margin: 300px;
+}
+
+.form-banner {
+  height: 350px;
+  border: 2px solid black;  
+  width: 600px;
+  align-items: center;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 0 0 0 0;
+
+}
+
+.form-button {
+  width: 150px;
+  font-size: 18px;
+}
+
+/* family section */
+
+.welcome-heading {
+  font-size: 62px;
+  font-weight: 800;
+  margin-top: 100px;
+}
+
+.family_text {
+  padding: 0 600px 0 600px;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 1px;
+  word-spacing: -1px;
+}
+
+
+/*Training*/
+
+.training-section {
+  height: 500px;
+  background-color: rgb(91, 123, 229);
+}
+
+.training-main-heading {
+  font-size: 60px;
+  font-family: "Montserrat", sans-serif;
+  padding: 100px 0 5px 0;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.training-text {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+}
+
+.btn-training-section {
+  width: 10%;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  padding: 15px;
+  font-weight: 500;
+}
+.btn-training-section :hover {
+  background-color: #ffffff;
+  border: 2px solid black;
+}
+
+/* Coaches*/
+.coach-section {
+  background-color: hsla(0, 0%, 0%, 0.877);
+  
+}
+.main-container {
+  padding: 5%;
+}
+.coach-section h1 {
+  color: #ffffff;
+  padding: 50px 0 0 50px;
+  
+}
+.coach-section p {
+  color: #ffffff;
+  padding: 10px 100px 0 50px;
+  
+}
+.trainer-descrip {
+  padding: 30px;
+}
+/* Footer */
+
+.footer-main-div {
+  height: 550px;
+}
+
+.col-1  {
+  font-size: 20px;
+  margin-top: 30px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.col-2 {
+  font-size: 20px;
+  font-family: 400;
+  color: #ffffff;
+}
+
+.col-3 {
+  font-size: 20px;
+  color: #ffffff;
+
+}
+
+.copy-right-section {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+}
